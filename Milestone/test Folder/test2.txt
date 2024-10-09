@@ -1,0 +1,22 @@
+int main() {
+    int x;
+
+    x = 123 + 456;
+    println(x);
+    
+    x = 123 - 456;
+    println(x);
+    
+    x = 123 * 3;
+    println(x);
+    
+    x = 123 / 3;
+    println(x);
+
+    x = (123);
+    println(x);
+
+    x = -123;
+    println(x);
+
+}
